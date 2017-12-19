@@ -7,4 +7,4 @@ A library so simple it is mind-boggling. Uses Google Tests for testing.
 # Pre-requisites
 
 - cmake 3.1
-- some c++ compiler
+- some c++11 compliant compiler
